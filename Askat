@@ -6,11 +6,9 @@ System out printLn
    System out printLn
 System out printLn   
 
-
 WebDriverManager.chromedriver().setup();
-WebDriver driver = new ChromeDriver();
-driver.get("http://www.google.com");
-
+        WebDriver driver = new ChromeDriver();
+driver.get(http://google.comn);
 
 
 
