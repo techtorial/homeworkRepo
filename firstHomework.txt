@@ -15,7 +15,10 @@ Should you have any questions, please reach out @techtorial
 Home work #2.
 1. Open Firefox
 
-
+Added by Farid
+test1
+test2
+test3
 
 
 
