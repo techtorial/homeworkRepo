@@ -14,6 +14,21 @@ Should you have any questions, please reach out @techtorial
 
 Home work #2.
 1. Open Firefox
+I made my own change in ne line
+
+Task #2
+Navigate to "http://uitestpractice.com/Students/Select#"
+Validate the values for Multiple Select are : 
+        India 
+        United States of America 
+        China
+        England 
+Select China and England
+Validate "China England" is displayed
+Deselect all the countries 
+Select All the countries 
+Validate "India United states of America China England" is displayed
+Deselect the China with index number Deselect the England with value 
 
 
 
