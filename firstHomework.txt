@@ -8,13 +8,11 @@ Home work #1.
 6. Logout
 
 Please finish this task before 05/15/2020
- CitHub is  very cool
-7.do functionality testing  
-Manual Testing 
-
 
 Should you have any questions, please reach out @techtorial
 
+Home work #2.
+1. Open firefox
 
 
 
