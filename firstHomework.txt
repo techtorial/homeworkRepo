@@ -16,6 +16,9 @@ Home work #2.
 1. Open Firefox
 
 
-
+        WebDriverManager.chromedriver().setup();
+        ChromeOptions options = new ChromeOptions();
+        options.setHeadless(true);
+        WebDriver driver = new ChromeDriver(options);
 
 
