@@ -1,0 +1,3 @@
+Sprints = Short and fixed-duration iterations called is sprints.
+Sprints is repeated all the next sprints until a product is complete. 
+Sprints are always short normally about 2-4 weeks. Each sprint start with a planning meeting. 
