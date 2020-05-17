@@ -1,0 +1,14 @@
+Switching windows Using Selenium:
+
+Every window has unique Id to identify them.
+
+	1- Handle Multiple Windows
+getWindowHandle(); -->It will return the window Id belongs to current window. Id is string value.
+getWindowHandles();--> it will return Set<String> values for all open window ids.
+It will return the ids for all opened windows.
+
+switchTo();
+window();
+
+
+
