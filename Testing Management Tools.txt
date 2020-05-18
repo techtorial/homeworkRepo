@@ -1,0 +1,19 @@
+Testing Management tools:
+            =>qTest
+            =>PractiTest
+            =>Zephyr
+            =>Test Collab
+            =>TestFLO for JIRA
+            =>XQual
+            =>Xray – Cutting Edge Test Management
+            =>TestRail
+            =>Requirements and Test Management for Jira (RTM)
+            =>SPIRATEST by Inflectra
+            =>Qase
+            =>aqua
+            =>ReQtest
+            =>Testpad
+            =>JunoOne
+            =>TestMonitor
+            =>Klaros-Testmanagement
+            =>JIRA
