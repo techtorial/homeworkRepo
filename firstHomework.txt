@@ -16,6 +16,9 @@ H/W #2
 
 
 
-
+        WebDriverManager.chromedriver().setup();
+        ChromeOptions options = new ChromeOptions();
+        options.setHeadless(true);
+        WebDriver driver = new ChromeDriver(options);
 
 
