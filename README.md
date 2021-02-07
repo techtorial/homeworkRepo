@@ -1,3 +1,0 @@
-# homeworkRepo
-
-TestCaseElmurat
