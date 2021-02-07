@@ -6,6 +6,9 @@ Home work #1.
 4. Sign up for a class
 5. Set reminder
 6. Logout
+7. log in to email aaccount daily
+8. respond to your emails as soon as you can
+
 
 Please finish this task before 05/15/2020.
 
